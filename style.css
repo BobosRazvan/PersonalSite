@@ -1,0 +1,49 @@
+/*  section 1*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+   background-color: rgb(135,206,250);
+   margin-top: 0px;
+}
+
+.razvan{
+    margin-top: 80px;
+    color:rgb(65,105,225);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Sacramento', cursive;
+    
+    
+}
+.programmer{
+    margin-top: 60px;
+    color:rgb(65,105,225);
+}
+
+.imaginecluj{
+    margin-top: 60px;
+    border: 10px;
+    border-color: rgb(135,206,250);
+}
+
+/*  section 2*/
+.messi{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.hello{
+    color:rgb(65,105,225);
+    margin-top: 20px;
+}
+
+/*  section 3*/
+.treiv3{
+   margin-top: 50px;
+}
+
+.contact{
+    font-size: 30px;
+}
